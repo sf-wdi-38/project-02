@@ -72,10 +72,10 @@ For the second project, you will use your knowledge of front-end and back-end we
 
 * **Rails:** Use Rails as the core framework for Ruby.
 * **PostgreSQL:** Use PostgreSQL for your database in development and production.
-* **Data Models** Include at least two data models with associations.
+* **Data Models:** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
-* **Testing** Write specs for 25% of your controller functionality, as well as for any model methods.
+* **Testing:** Write specs for 25% of your controller functionality, as well as for any model methods.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
@@ -89,12 +89,12 @@ For the second project, you will use your knowledge of front-end and back-end we
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
-* **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
+* **External APIs:** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
 * **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 * **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
 * **Job Scheduling:** Set up a job-scheduler like Sidekiq, Delayed Job, or Resque to queue actions that don't need to run immediately.
 * **Emails:** Use ActionMailer to send emails to your users.
-* **Text Messaging:** Use Twilio to send texts to your users (note: not free).
+* **Text Messaging:** Use Twilio to send texts to your users (note: free for testing/a few users, but not free forever).
 * **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
 * **Material Design:** Research the material design paradigm and apply it to ground your app's UI in the physical realm.
 * **CSS Animations:** Use jQuery or animate.css to include animations on your site.
@@ -119,8 +119,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### How do we turn in the project?
 
-* As you make code changes, **frequently commit and push to GitHub**.
-
+* As you make code changes, **frequently commit and push to GitHub**. Add links to the project submission doc.
 
 ---
 
@@ -136,7 +135,7 @@ https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBP
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Wednesday Mar 29th** starting at ** 1:30pm**. Please follow these guidelines:
+Each group will present their project on **Wednesday Mar 29th** starting at **1:30pm**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
