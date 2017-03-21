@@ -77,21 +77,9 @@ For the second project, you will use your knowledge of front-end and back-end we
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
 * **Testing** Write specs for 25% of your controller functionality, as well as for any model methods.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
-* **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
-
-### Flexible Technical Requirements
-
-**Your app should have 3 out of the 5 following options:**
-
-* **User Login** Make sure you have authentication *and* authorization.
-* **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
-* **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
-* **Paperclip** Upload files with Paperclip.
-* **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
-* **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 
 ---
 
@@ -101,6 +89,8 @@ For the second project, you will use your knowledge of front-end and back-end we
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
+* **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
+* **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 * **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
 * **Job Scheduling:** Set up a job-scheduler like Sidekiq, Delayed Job, or Resque to queue actions that don't need to run immediately.
 * **Emails:** Use ActionMailer to send emails to your users.
@@ -119,9 +109,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES DATE HERE & TIME}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday Mar 22-23rd** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be [*fully approved*](https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=197144507) by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AN DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Wednesday Mar 29th, 1:30-3:20pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -138,40 +128,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 2 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 3 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 4 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### Group 5 - TBD (INSTRUCTOR)
-
-* TBD
-* TBD
-* TBD
-* TBD
+https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=197144507
 
 ---
 
@@ -179,7 +136,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **{{ENTER PRESENTATION DATE HERE}}** starting at ** {{PRESENTATION TIME}}**. Please follow these guidelines:
+Each group will present their project on **Wednesday Mar 29th** starting at ** 1:30pm**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
