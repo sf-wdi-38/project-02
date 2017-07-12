@@ -109,9 +109,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Wednesday Mar 22-23rd** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be [*fully approved*](https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=197144507) by an instructor.
+* **Wednesday July 12-13rd** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be [*fully approved*](https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=197144507) by an instructor.
 
-* **Wednesday Mar 29th, 1:30-3:20pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Tuesday July 18th, 1:30-3:00pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -127,7 +127,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=197144507
+https://docs.google.com/spreadsheets/d/19baYsQr8BcsPz5E28qp1WYjeLUabz8B26EGnZEHQpmw/edit#gid=509795604
 
 ---
 
@@ -135,7 +135,7 @@ https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBP
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Wednesday Mar 29th** starting at **1:30pm**. Please follow these guidelines:
+Each group will present their project on **Tuesday July 18th** starting at **1:30pm**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
